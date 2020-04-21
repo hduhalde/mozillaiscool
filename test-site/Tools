@@ -1,0 +1,17 @@
+From https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
+
+Texto>
+Video en NodeJs
+
+Color #0D6EC3
+
+Imagen https://images.app.goo.gl/XSrqCx5i3wPNSVkn9
+https://images.app.goo.gl/4sNjPC7qMfg4RB7j9
+
+Fonts
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+
+
+font-family: 'Roboto', sans-serif;
